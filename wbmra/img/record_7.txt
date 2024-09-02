@@ -1,0 +1,8 @@
+Date: 2023-10-12 00:00:00
+Circuit: adass
+School: Asonomaso Presbyterian Junior High School
+Purpose: visit
+Observation: school inventory
+Action: goos
+Signed: ken
+Position: head
